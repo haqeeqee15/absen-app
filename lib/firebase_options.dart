@@ -47,11 +47,11 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCL-UrJxb4egmbsAbgCuUuGM6vsyi1Z28w',
-    appId: '1:1045475764615:android:f4cbab011b12526ff4cb22',
-    messagingSenderId: '1045475764615',
-    projectId: 'presence-5c341',
-    storageBucket: 'presence-5c341.appspot.com',
+    apiKey: 'AIzaSyAbod-NuxKOwrq8H8zhgwIA1VpFeTKhiVY',
+    appId: '1:993648466577:android:f31ffa6e12762dd38d7d30',
+    messagingSenderId: '993648466577',
+    projectId: 'kehadiran-app-f149d',
+    storageBucket: 'kehadiran-app-f149d.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(

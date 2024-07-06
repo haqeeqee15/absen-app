@@ -180,7 +180,7 @@ class HomeView extends GetView<HomeController> {
                             onPressed: () => Get.toNamed(Routes.ALL_PRESENCE),
                             child: Text("show all"),
                             style: TextButton.styleFrom(
-                              primary: AppColor.primary,
+                              foregroundColor: AppColor.primary,
                             ),
                           ),
                         ],

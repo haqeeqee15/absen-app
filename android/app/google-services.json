@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "1045475764615",
-    "project_id": "presence-5c341",
-    "storage_bucket": "presence-5c341.appspot.com"
+    "project_number": "993648466577",
+    "project_id": "kehadiran-app-f149d",
+    "storage_bucket": "kehadiran-app-f149d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1045475764615:android:f4cbab011b12526ff4cb22",
+        "mobilesdk_app_id": "1:993648466577:android:f31ffa6e12762dd38d7d30",
         "android_client_info": {
-          "package_name": "com.mrezkys.presence"
+          "package_name": "com.qiqoy.kehadiran"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "1045475764615-h8lrtuiqd6od1rak76jhil766gtp3759.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCL-UrJxb4egmbsAbgCuUuGM6vsyi1Z28w"
+          "current_key": "AIzaSyAbod-NuxKOwrq8H8zhgwIA1VpFeTKhiVY"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1045475764615-h8lrtuiqd6od1rak76jhil766gtp3759.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

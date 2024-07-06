@@ -39,7 +39,7 @@ class UpdatePofileView extends GetView<UpdatePofileController> {
               },
               child: Text((controller.isLoading.isFalse) ? 'Done' : 'Loading...'),
               style: TextButton.styleFrom(
-                primary: AppColor.primary,
+                foregroundColor: AppColor.primary,
               ),
             ),
           ),
